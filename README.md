@@ -1,4 +1,4 @@
-2buntu_md_converter
+2buntu-md-converter
 ===================
 
 A Python script to convert HTML and WP Shortcodes into Markdown. Uses [BeautifulSoup 4](https://pypi.python.org/pypi/beautifulsoup4/4.3.2). Written for [2buntu](http://2buntu.com).
